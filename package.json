@@ -1,5 +1,5 @@
 {
-  "name": "jup-swap-app",
+  "name": "vortexdex",
   "scripts": {
     "build": "next build",
     "ci": "npm run build && npm run lint && npm run format:check",
@@ -35,7 +35,7 @@
     "clsx": "^2.1.1",
     "jotai": "^2.12.5",
     "lucide-react": "^0.536.0",
-    "next": "15.4.5",
+    "next": "15.3.8",
     "next-themes": "^0.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -50,7 +50,7 @@
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "eslint": "^9.32.0",
-    "eslint-config-next": "15.4.5",
+    "eslint-config-next": "15.3.8",
     "prettier": "^3.6.2",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3"
